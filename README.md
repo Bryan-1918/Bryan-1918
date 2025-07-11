@@ -2,11 +2,13 @@
 
 Welcome to my Github! I'm an enthusiast programmer student who likes to solve problems and create new things.
 
+---
+
 - :round_pushpin: **Bogotá, Colombia** 🇨🇴
 - :computer: **Ingeniero de sistemas**
 - :mortar_board: **Universidad Ean**
 
-### Skills and Technologies
+---
 
 ### Languages
 
@@ -25,3 +27,5 @@ Welcome to my Github! I'm an enthusiast programmer student who likes to solve pr
 
 ### Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-ruiz-hernandez-06635a2b0/)
+
+---
